@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+}
+
+.portfoliolineargradient{
+    background: linear-gradient(to bottom right, #00aaff,#cc00ff);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
