@@ -120,7 +120,7 @@ function Works() {
                 <Typography sx={{ fontSize: "16px", color: "#bfbfbf" }}>
                   {item.type}
                 </Typography>
-                <Typography sx={{ fontSize: "20px", color: "#fff" }}>
+                {/* <Typography sx={{ fontSize: "20px", color: "#fff" }}>
                   <a
                     target="_blank"
                     style={{ color: "#fff", textDecoration: "none" }}
@@ -128,7 +128,7 @@ function Works() {
                   >
                     {item.tittle}
                   </a>
-                </Typography>
+                </Typography> */}
                 <Typography sx={{ fontSize: "14px", color: "#bfbfbf" }}>
                   {item.built}
                 </Typography>
